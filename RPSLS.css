@@ -1,0 +1,14 @@
+h1 {
+  font-family: Arial, serif;
+  color: purple;
+  font-size: 18pt;
+}
+a {
+  text-decoration: none;
+}
+
+.text {
+  width = 500px;
+  font-family: Helvetica, sans-serif;
+  align = center;
+}
